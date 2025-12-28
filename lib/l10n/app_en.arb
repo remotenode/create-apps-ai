@@ -1,0 +1,108 @@
+{
+  "@@locale": "en",
+  "appTitle": "Loan Calculator",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "loanAmount": "Loan Amount",
+  "@loanAmount": {
+    "description": "Label for loan amount input"
+  },
+  "annualInterestRate": "Annual Interest Rate (%)",
+  "@annualInterestRate": {
+    "description": "Label for annual interest rate input"
+  },
+  "loanTermYears": "Loan Term (Years)",
+  "@loanTermYears": {
+    "description": "Label for loan term slider"
+  },
+  "paymentFrequency": "Payment Frequency",
+  "@paymentFrequency": {
+    "description": "Label for payment frequency dropdown"
+  },
+  "monthly": "Monthly",
+  "@monthly": {
+    "description": "Monthly payment option"
+  },
+  "biWeekly": "Bi-weekly",
+  "@biWeekly": {
+    "description": "Bi-weekly payment option"
+  },
+  "weekly": "Weekly",
+  "@weekly": {
+    "description": "Weekly payment option"
+  },
+  "calculate": "Calculate",
+  "@calculate": {
+    "description": "Calculate button text"
+  },
+  "results": "Results",
+  "@results": {
+    "description": "Results section header"
+  },
+  "paymentAmount": "Payment Amount",
+  "@paymentAmount": {
+    "description": "Label for payment amount result"
+  },
+  "totalPayment": "Total Payment",
+  "@totalPayment": {
+    "description": "Label for total payment result"
+  },
+  "totalInterest": "Total Interest",
+  "@totalInterest": {
+    "description": "Label for total interest result"
+  },
+  "payoffDate": "Approximate Payoff Date",
+  "@payoffDate": {
+    "description": "Label for payoff date result"
+  },
+  "enterLoanAmount": "Enter loan amount",
+  "@enterLoanAmount": {
+    "description": "Placeholder for loan amount input"
+  },
+  "enterInterestRate": "Enter interest rate (0.1-30%)",
+  "@enterInterestRate": {
+    "description": "Placeholder for interest rate input"
+  },
+  "invalidLoanAmount": "Please enter a valid loan amount",
+  "@invalidLoanAmount": {
+    "description": "Error message for invalid loan amount"
+  },
+  "invalidInterestRate": "Please enter a valid interest rate (0.1-30%)",
+  "@invalidInterestRate": {
+    "description": "Error message for invalid interest rate"
+  },
+  "years": "{count} {count, plural, =1{year} other{years}}",
+  "@years": {
+    "description": "Years label with pluralization",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language selector label"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  "russian": "Russian",
+  "@russian": {
+    "description": "Russian language option"
+  },
+  "spanish": "Spanish",
+  "@spanish": {
+    "description": "Spanish language option"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode toggle label"
+  },
+  "lightMode": "Light Mode",
+  "@lightMode": {
+    "description": "Light mode toggle label"
+  }
+}

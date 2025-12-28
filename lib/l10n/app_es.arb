@@ -1,0 +1,35 @@
+{
+  "@@locale": "es",
+  "appTitle": "Calculadora de Préstamos",
+  "loanAmount": "Monto del Préstamo",
+  "annualInterestRate": "Tasa de Interés Anual (%)",
+  "loanTermYears": "Plazo del Préstamo (Años)",
+  "paymentFrequency": "Frecuencia de Pago",
+  "monthly": "Mensual",
+  "biWeekly": "Quincenal",
+  "weekly": "Semanal",
+  "calculate": "Calcular",
+  "results": "Resultados",
+  "paymentAmount": "Monto del Pago",
+  "totalPayment": "Pago Total",
+  "totalInterest": "Interés Total",
+  "payoffDate": "Fecha Aproximada de Liquidación",
+  "enterLoanAmount": "Ingrese el monto del préstamo",
+  "enterInterestRate": "Ingrese la tasa de interés (0.1-30%)",
+  "invalidLoanAmount": "Por favor, ingrese un monto de préstamo válido",
+  "invalidInterestRate": "Por favor, ingrese una tasa de interés válida (0.1-30%)",
+  "years": "{count} {count, plural, =1{año} other{años}}",
+  "@years": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "language": "Idioma",
+  "english": "Inglés",
+  "russian": "Ruso",
+  "spanish": "Español",
+  "darkMode": "Modo Oscuro",
+  "lightMode": "Modo Claro"
+}
