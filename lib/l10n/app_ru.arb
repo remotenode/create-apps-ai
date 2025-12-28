@@ -1,0 +1,35 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Кредитный калькулятор",
+  "loanAmount": "Сумма кредита",
+  "annualInterestRate": "Годовая процентная ставка (%)",
+  "loanTermYears": "Срок кредита (лет)",
+  "paymentFrequency": "Частота платежей",
+  "monthly": "Ежемесячно",
+  "biWeekly": "Раз в две недели",
+  "weekly": "Еженедельно",
+  "calculate": "Рассчитать",
+  "results": "Результаты",
+  "paymentAmount": "Сумма платежа",
+  "totalPayment": "Общая сумма выплат",
+  "totalInterest": "Общая сумма процентов",
+  "payoffDate": "Примерная дата погашения",
+  "enterLoanAmount": "Введите сумму кредита",
+  "enterInterestRate": "Введите процентную ставку (0.1-30%)",
+  "invalidLoanAmount": "Пожалуйста, введите корректную сумму кредита",
+  "invalidInterestRate": "Пожалуйста, введите корректную процентную ставку (0.1-30%)",
+  "years": "{count} {count, plural, =1{год} few{года} other{лет}}",
+  "@years": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "language": "Язык",
+  "english": "Английский",
+  "russian": "Русский",
+  "spanish": "Испанский",
+  "darkMode": "Тёмная тема",
+  "lightMode": "Светлая тема"
+}
